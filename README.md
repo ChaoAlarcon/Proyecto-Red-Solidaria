@@ -1,5 +1,11 @@
 # Proyecto-Red-Solidaria
 
+## Integrantes:
+#### - Roberto Cardoso
+#### - Noelia Rubio
+#### - Harley Jarod Mena
+#### - Chao An Alarcón 
+
 ### Escenario del Proyecto:
 Una ONG ha contactado con tu equipo para diseñar un aula de formación digital para niños 
 y niñas en una zona rural de Honduras. El objetivo es dotar de infraestructura y recursos 
