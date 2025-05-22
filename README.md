@@ -1,5 +1,7 @@
 # Proyecto-Red-Solidaria
 
+![Portada](Portada.png)
+
 ## Integrantes:
 #### - Roberto Cardoso
 #### - Noelia Rubio
