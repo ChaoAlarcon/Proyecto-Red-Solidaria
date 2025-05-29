@@ -1,6 +1,6 @@
 # Proyecto-Red-Solidaria
 
-![Portada](Portada.png)
+![Portada](Imágenes/Portada.png)
 
 ## Integrantes:
 #### - Roberto Cardoso
